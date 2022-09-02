@@ -1,0 +1,19 @@
+.circle{
+    width: 3rem;
+    height : 3rem;
+    line-height: 3rem;
+    color : black;
+    border: gainsboro solid 0.0001px;
+    border-radius: 50%;
+    cursor : pointer;
+}
+
+.stepBlock .circleWrapper{
+    padding: 0rem 2rem;
+    position: relative;
+}
+
+.selected .circle{
+    background-color: #8000e3;
+    color: aliceblue;
+}

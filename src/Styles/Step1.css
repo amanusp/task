@@ -1,0 +1,59 @@
+.form {
+    margin: auto;
+    width: 25%;
+}
+
+.label {
+    float: left;
+    color: black;
+    margin-top: 2rem;
+    opacity: 60%;
+}
+
+.button {
+    margin-top: 3rem;
+    width: 100%;
+    height: 3rem;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    background-color: #8000e3;
+    color: white;
+    font-style: bold;
+}
+
+.button:hover {
+    background-color: #8000e3;
+    color: white;
+}
+
+.left {
+    height: 15rem;
+    width: 45%;
+    float: left;
+    padding: 2rem;
+    border: gainsboro solid 0.0001px;
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.right {
+    height: 15rem;
+    width: 45%;
+    float: left;
+    padding: 2rem;
+    border: gainsboro solid 0.0001px;
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+.gap {
+    height: 12rem;
+    width: 5%;
+    float: left;
+}
+.person{
+    text-align: left;
+}
+.congrats{
+    margin-top: 2rem;
+}
+p{
+    text-align: left;
+}
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
